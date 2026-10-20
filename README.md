@@ -4,7 +4,7 @@
 
 Every entry was checked against its official repo, site, or announcement on **2026-10-11**. Inclusion requires an official statement (repo README, author post, launch announcement) that the work was AI/vibe-built; entries that could not be verified carry an honest `verified: false` flag in the machine-readable catalog ([`data/vibe-work.json`](data/vibe-work.json)). Descriptions are our own words, never copied from sources.
 
-**60 projects** across **8 categories** · 57 verified · 21 open-source.
+**61 projects** across **8 categories** · 58 verified · 22 open-source.
 
 ## Contents
 
@@ -112,6 +112,7 @@ iOS and Android apps that shipped to stores with AI-written codebases.
 | [FitNotes iOS Port](https://github.com/starwhiz/vibecoded-fitnotes-ios-port) | iOS port of the FitNotes workout tracker: SwiftUI, SwiftData, HealthKit, 97 source files. | Unknown | README: 'This app was vibe coded with Claude Code.' |
 | [Immich Editor](https://github.com/construxz/immich-editor) | Open-source Android photo editor for Immich; works fully offline without any server. | AGPL-3.0 | README: code written by Claude Code, directed by one person |
 | [MeshAnd](https://github.com/mategogiberidze/meshand) | Android app showing your Meshtastic team live on the OsmAnd map, offline over LoRa. | GPL-3.0 | README: every line written by Claude Code |
+| [Resume Gallery](https://github.com/ismailghedamsi/resume-gallery) | Android gallery built on named browse sessions: each session has its own folder set and remembers its last seen photo. | MIT | README: designed and specified by the author; code written by Muse (Meta's Muse Spark) |
 | [Soaring Vibes](https://github.com/tyler5673/soaringvibes-android) | Android flight sim over the Hawaiian islands: real terrain, Cessna 182, multiplayer. | Unknown | README: vibe-coded without writing a line manually |
 
 ## Music & audio

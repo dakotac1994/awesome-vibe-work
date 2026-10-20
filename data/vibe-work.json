@@ -495,6 +495,17 @@
     "vibe_note": "README: vibe-coded without writing a line manually"
   },
   {
+    "name": "Resume Gallery",
+    "description": "Android gallery built on named browse sessions: each session has its own folder set and remembers its last seen photo.",
+    "category": "mobile-apps",
+    "homepage": null,
+    "repo": "https://github.com/ismailghedamsi/resume-gallery",
+    "license": "MIT",
+    "verified": true,
+    "verified_on": "2026-10-20",
+    "vibe_note": "README: designed and specified by the author; code written by Muse (Meta's Muse Spark)"
+  },
+  {
     "name": "AI Shader Music Lab",
     "description": "Single-file browser beatmaker: 16-step sequencer, WebGL shader visuals driven by the beat.",
     "category": "music-audio",
